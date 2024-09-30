@@ -144,3 +144,19 @@ git clone https://github.com/agentNavi0893/learn-bash-by-building-a-boilerplate.
 git remote add origin https://github.com/agentNavi0893/learn-bash-boilerplate.git
 git add.
 git add .
+git commit -m "done"
+__vsc_prompt_cmd_original
+git push -u origin main
+git remote -v
+git remote set-url origin https://github.com/agentNavi0893/learn-bash-boilerplate.git
+git push origin main
+git remote set-url origin https://github.com/agentNavi0893/learn-bash-boilerplate.gt
+git push origin main
+git push origin main
+git remote set-url origin https://github.com/agentNavi0893/learn-bash-boilerplate.git
+git push origin main
+git push origin main
+echo "# learn-bash-boilerplate" >> README.md
+git init
+git add README.md
+git add .
