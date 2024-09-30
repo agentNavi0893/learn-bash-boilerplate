@@ -138,3 +138,9 @@ git init
 git remote add origin https://github.com/agentNavi0893/learn-bash-boilerplate.git
 git status
 git add .
+git commit -m "done!"
+git push origin main
+git clone https://github.com/agentNavi0893/learn-bash-by-building-a-boilerplate.git
+git remote add origin https://github.com/agentNavi0893/learn-bash-boilerplate.git
+git add.
+git add .
